@@ -1,4 +1,4 @@
 ---
 title: Stack
-description: Tools I use everyday
+description: Some of the tools I enjoy building with.
 ---

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Typescript",
+    "description": "The language I use to build products",
+    "link": "https://typescriptlang.org/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg",
+    "tag": "Productivity"
+  },
+  {
+    "name": "Python",
+    "description": "Place for all my domains on the internet",
+    "link": "https://cloudflare.com",
+    "icon": "",
+    "tag": "Webdev"
+  },
+  {
+    "name": "Postgres",
+    "description": "The database I use to store all my data",
+    "link": "https://www.postgresql.org/",
+    "icon": "",
+    "tag": "Data"
+  },
+  {
+    "name": "GitHub",
+    "description": "Code hosting for all projects",
+    "link": "https://github.com/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png",
+    "tag": "Webdev"
+  },
+  {
+    "name": "Figma",
+    "description": "Design tool for all design artifacts and social media handles",
+    "link": "https://www.figma.com/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
+    "tag": "Graphic Design"
+  }
+]

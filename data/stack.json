@@ -1,44 +1,26 @@
 [
   {
-    "name": "Bear Notes",
-    "description": "Quick note taking application on Mac for writing down instant thoughts",
-    "link": "https://bear.app/",
-    "icon": "https://blog.bear.app/wp-content/uploads/2018/10/bear-icon.png",
-    "tag": "Productivity"
+    "name": "Typescript",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
   },
   {
-    "name": "Cloudflare",
-    "description": "Place for all my domains on the internet",
-    "link": "https://cloudflare.com",
-    "icon": "",
-    "tag": "Webdev"
+    "name": "Python",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
   },
   {
-    "name": "Vercel",
-    "description": "Hosts frontend of projects including this website",
-    "link": "https://vercel.com/",
-    "icon": "",
-    "tag": ""
+    "name": "FastAPI",
+    "icon": "https://avatars.githubusercontent.com/u/156354296?s=200&v=4"
   },
   {
-    "name": "GitHub",
-    "description": "Code hosting for all projects",
-    "link": "https://github.com/",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png",
-    "tag": "Webdev"
+    "name": "Pydantic",
+    "icon": "https://avatars.githubusercontent.com/u/110818415?s=200&v=4"
   },
   {
-    "name": "iTerm",
-    "description": "A definitely more functional terminal for Mac",
-    "link": "https://iterm2.com/",
-    "icon": "https://icons.iconarchive.com/icons/froyoshark/enkel/256/iTerm-icon.png",
-    "tag": "Productivity"
+    "name": "PostHog",
+    "icon": "https://plgdemos.com/content/images/size/w2000/format/webp/2024/04/posthog-icon-logo-39846327A9-seeklogo.com.png"
   },
   {
     "name": "Figma",
-    "description": "Design tool for all design artifacts and social media handles",
-    "link": "https://www.figma.com/",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
-    "tag": "Graphic Design"
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
   }
 ]

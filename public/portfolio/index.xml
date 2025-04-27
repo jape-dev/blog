@@ -1,33 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio (demo) on James Patten</title>
+    <title>Portfolio on James Patten</title>
     <link>http://localhost:1313/portfolio/</link>
-    <description>Recent content in Portfolio (demo) on James Patten</description>
+    <description>Recent content in Portfolio on James Patten</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pastry jelly cookie sugar donut orange</title>
-      <link>http://localhost:1313/portfolio/design1/</link>
-      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/design1/</guid>
-      <description>&lt;p&gt;Croissant orange croissant dolor orange croissant. Lollipop biscuit donut vanilla sweet croissant. Apple donut candy tiramisu cream jelly. Croissant sweet cookie vanilla tiramisu dolor.&lt;/p&gt;&#xA;&lt;p&gt;Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.&lt;/p&gt;&#xA;&lt;p&gt;Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.&lt;/p&gt;</description>
+      <title>Data Importer</title>
+      <link>http://localhost:1313/portfolio/data-importer/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/data-importer/</guid>
+      <description>&lt;h3 id=&#34;whats-the-problem-with-current-data-tooling&#34;&gt;What&amp;rsquo;s the problem with current data tooling?&lt;/h3&gt;&#xA;&lt;p&gt;Currently &amp;lsquo;ETL&amp;rsquo; (extract, transform, load) is a job that is done by Data Engineers between a source and a target system. Usually the target system is is a data warehouse such as Snowflake, BigQuery, or Redshift.&lt;/p&gt;&#xA;&lt;p&gt;But non technical users also perform &amp;lsquo;ETL&amp;rsquo; tasks all the time. Marketing teams import data into their product management tool to build reports. Sales teams import data into their CRM to enrich their pipeline. Operations teams import order data into work management tools to manage their supply chain.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Cream sugar apple donut apple croissant</title>
-      <link>http://localhost:1313/portfolio/design2/</link>
-      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/design2/</guid>
-      <description>&lt;p&gt;Tiramisu sprinkles marzipan lollipop marzipan dolor. Jelly candy marzipan vanilla candy ipsum. Sugar croissant lollipop vanilla cream marzipan. Sprinkles croissant cream dolor jelly marzipan.&lt;/p&gt;&#xA;&lt;p&gt;Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.&lt;/p&gt;&#xA;&lt;p&gt;Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Apple cream vanilla apple marzipan muffin</title>
-      <link>http://localhost:1313/portfolio/design3/</link>
-      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/design3/</guid>
-      <description>&lt;p&gt;Tiramisu sprinkles marzipan lollipop marzipan dolor. Jelly candy marzipan vanilla candy ipsum. Sugar croissant lollipop vanilla cream marzipan. Sprinkles croissant cream dolor jelly marzipan.&lt;/p&gt;&#xA;&lt;p&gt;Pastry jelly cookie sugar donut orange. Candy sweet cookie sweet donut marzipan. Vanilla cookie sprinkles pastry orange cookie. Marzipan donut ipsum sugar biscuit vanilla.&lt;/p&gt;&#xA;&lt;p&gt;Candy cookie muffin pastry lollipop vanilla. Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin. Sugar pastry orange cream orange pastry.&lt;/p&gt;</description>
+      <title>Canopact (acquired)</title>
+      <link>http://localhost:1313/portfolio/canopact/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/canopact/</guid>
+      <description>&lt;p&gt;Prior to the rise of collaboration tools like Slack and Microsoft Teams, internal communications tooling was mostly focused around email and intranet sites.&lt;/p&gt;&#xA;&lt;p&gt;With the onset of remote and hybrid working, accellerated by global lockdowns, more and more companies adopted collaboration tools as their primary internal communications channel.&lt;/p&gt;&#xA;&lt;p&gt;Canopact is an internal communications app for Slack, which provides some of the email/intranet functionality that isn&amp;rsquo;t available natively on the platform (e.g. newlsetters, engagement analytics, alias posting etc.)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
