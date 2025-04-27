@@ -16,18 +16,18 @@
       <description>&lt;p&gt;A platform product/business, also referred to as a &amp;lsquo;plugin&amp;rsquo; or &amp;rsquo;embedded software,&amp;rsquo; is a product that lives inside a larger platform. Slack apps, Shopify apps, Monday apps etc. are all examples of such products.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-build-inside-another-platform&#34;&gt;Why build inside another platform?&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve built two profitable platform products so far (Canopact, Data Importer). I&amp;rsquo;ve also tried to build stand-alone SaaS products, which were an order of magnitude harder to launch and get off the ground.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>How I prioritise feature requests for Data Importer</title>
+      <link>http://localhost:1313/articles/feature-prioritization/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/feature-prioritization/</guid>
+      <description>&lt;p&gt;I get a fair amount of feature requests for Data Importer (currently 10+ per week). Here&amp;rsquo;s how I go about deciding what to work on and when.&lt;/p&gt;&#xA;&lt;p&gt;After a period of just prioritising based on vibes (which I still do sometimes), I thought it was time to look at some of the popular feature request frameworks out there and see which ones would best align with the product I&amp;rsquo;m building.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The best way to get early users in a market you have no experience in</title>
       <link>http://localhost:1313/articles/early-users/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/articles/early-users/</guid>
       <description>&lt;p&gt;Conventional start-up wisdom tells us that the best way to get early traction for your product is to launch into a market/industry you already have an understanding of, a network within, an unfair advantage on etc.&lt;/p&gt;&#xA;&lt;p&gt;This is very good advice.&lt;/p&gt;&#xA;&lt;p&gt;But sometimes (against our better judgement) we don&amp;rsquo;t want to build a product inside a market we already know well.&lt;/p&gt;&#xA;&lt;p&gt;Maybe you&amp;rsquo;re excited about a problem in a different market, bored to death of the industry you&amp;rsquo;ve been working in for 10+ years, or think there&amp;rsquo;s more growth potential in another area.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How I prioritise feature requests for Data Importer</title>
-      <link>http://localhost:1313/articles/feature-prioritization/</link>
-      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articles/feature-prioritization/</guid>
-      <description>&lt;p&gt;I get a fair amount of feature requests for Data Importer (currently 10+ per week). Here&amp;rsquo;s how I go about deciding what to work on and when.&lt;/p&gt;&#xA;&lt;p&gt;After a period of just prioritising based on vibes (which I still do sometimes), I thought it was time to look at some of the popular feature request frameworks out there and see which ones would best align with the product I&amp;rsquo;m building.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pastry jelly cookie sugar donut orange</title>

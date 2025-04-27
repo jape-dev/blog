@@ -1,6 +1,6 @@
 ---
 title: How I prioritise feature requests for Data Importer
-date: 2023-08-15
+date: 2025-02-11
 ---
 
 I get a fair amount of feature requests for Data Importer (currently 10+ per week). Here's how I go about deciding what to work on and when.
