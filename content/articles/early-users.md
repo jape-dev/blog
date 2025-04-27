@@ -68,5 +68,3 @@ Because you're embedded in the community and interacting authentically, you'll n
 In many ways, the leads you gather are almost a byproduct. You're building relationships, learning the market from the inside out, and gradually carving out a reputation.
 
 It's slower than buying ads. It's more manual than spamming cold emails. But it's real.
-
-And in a market you have no experience in, trust and reputation are your most powerful levers.
