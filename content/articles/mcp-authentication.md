@@ -29,9 +29,7 @@ Examples of MCP servers:
 
 MCP works through a client-server architecture where communication happens via a standardised protocol, allowing AI applications to retrieve context, execute functions, and access real-time data from external systems.
 
-## The USB Analogy
-
-Think of MCP like USB ports and cables.
+###  Think of MCP like USB ports and cables.
 
 Before USB, every device had its own unique connector - printers had parallel ports, keyboards had PS/2 ports, mice had serial ports, etc. If you wanted to connect a new device to your computer, you needed the right specific port and cable for that exact device.
 
@@ -54,7 +52,7 @@ Therefore, many people are worried that every MCP server also needs to be in cha
 
 MCP can rely on something we've been using for a long time: OAuth, a popular standard for handling secure logins and permissions.
 
-## OAuth is like a hotel keycard system
+### OAuth is like a hotel keycard system
 
 When you check into a hotel (app), you're given a keycard (access token) that only opens your room (specific resources), for a limited time.
 
